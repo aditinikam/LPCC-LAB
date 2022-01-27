@@ -1,0 +1,6 @@
+﻿Type,SYMBOL,VAL. OF CLASS FIELD
+Imperative Statements,IS,1
+Declarative Statements,DL,2
+Assembler Directive,AD,3
+CPU Register,RG,4
+Conditional codes,CC,5
